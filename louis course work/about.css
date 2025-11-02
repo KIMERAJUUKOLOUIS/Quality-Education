@@ -1,0 +1,49 @@
+header a{
+    width: 100%;
+    text-align: center;
+    font-size: x-large;
+    color: blue;
+    margin-left: 250px;
+    text-decoration: none;
+    
+
+}
+header{
+    width: 100%;
+    background-color: gold;
+    height: 40px;
+
+}
+.up{
+    text-align: center;
+    margin: 0 30%;
+    color:black;
+    
+
+}
+.down{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 100%;
+
+}
+.left{
+    margin-right: 250px;
+    
+    
+}
+img{
+    border-radius: 50%;
+    
+}
+footer{
+    text-align: center;
+    color: black;
+    background-color: gold;
+    padding: 20px 0px;
+}
+
+
+
+
